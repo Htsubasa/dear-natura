@@ -1002,7 +1002,7 @@ main {
 }
 
 .item-info-content-wrapper .item-block .btn-part .info-button-block .item-btn2:hover .sub-menu {
-  display: inline-block;
+  /*display: inline-block;*/
 }
 
 
