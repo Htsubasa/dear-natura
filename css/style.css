@@ -993,8 +993,14 @@ main {
   background-color: #ffffff;
   display: none;
    z-index: 3;
-
   /*ul*/
+}
+
+
+@media (max-width: 560px) {
+  .item-info-content-wrapper .item-block .btn-part .info-button-block .item-btn2 .sub-menu {
+    max-width: 291px;
+  }
 }
 
 .item-info-content-wrapper .item-block .btn-part .info-button-block .item-btn2 .sub-menu ul {
