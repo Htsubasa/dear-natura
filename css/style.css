@@ -986,6 +986,8 @@ main {
           box-sizing: border-box;
   background-color: #ffffff;
   display: none;
+   z-index: 3;
+
   /*ul*/
 }
 
