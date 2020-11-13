@@ -413,6 +413,12 @@ main {
   display: none;
 }
 
+@media (max-width: 560px) {
+  .item-info-content-wrapper .item-info-sub-title .sp_br {
+    display: block;
+  }
+}
+
 .item-info-content-wrapper .item-top-title_sp {
   text-align: center;
   /*item-info-main-title*/
