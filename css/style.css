@@ -350,7 +350,7 @@ main {
 @media (max-width: 560px) {
   .item-info-content {
     padding: 49px 0px 49px 0px;
-    max-width: 288px;
+    max-width: 268px;
     width: 100%;
   }
 }
