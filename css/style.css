@@ -1229,6 +1229,12 @@ main {
   /*right-box-circle-block*/
 }
 
+@media (max-width: 560px) {
+  .item-info-content-wrapper .circle-block-second .right-box {
+    margin-left: 0px;
+  }
+}
+
 .item-info-content-wrapper .circle-block-second .right-box .right-box-circle-block {
   display: -webkit-box;
   display: -ms-flexbox;
