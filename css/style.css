@@ -347,14 +347,13 @@ main {
   /*wrraper*/
 }
 
+
 @media (max-width: 560px) {
   .item-info-content {
-    padding: 49px 0px 49px 0px;
-    max-width: 288px;
+    padding: 49px 5px 49px 5px;
     width: 100%;
   }
 }
-
 .item-info-content-wrapper {
   max-width: 733px;
   width: 100%;
