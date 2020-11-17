@@ -1267,6 +1267,8 @@ main {
   .item-info-content-wrapper .circle-block-second .right-box .right-box-circle-block .circle3 {
     width: 91px;
     height: 91px;
+       margin-right: 3px;
+   margin-left: 3px;
   }
 }
 
@@ -1307,6 +1309,8 @@ main {
   .item-info-content-wrapper .circle-block-second .right-box .right-box-circle-block .circle4 {
     width: 91px;
     height: 91px;
+       margin-right: 3px;
+   margin-left: 3px;
   }
 }
 
@@ -1347,6 +1351,8 @@ main {
   .item-info-content-wrapper .circle-block-second .right-box .right-box-circle-block .circle5 {
     width: 91px;
     height: 91px;
+       margin-right: 3px;
+   margin-left: 3px;
   }
 }
 
