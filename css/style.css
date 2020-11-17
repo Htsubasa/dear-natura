@@ -1011,6 +1011,13 @@ main {
   /*ul*/
 }
 
+@media (max-width: 768px) {
+  .item-info-content-wrapper .item-block .btn-part .info-button-block .item-btn2 .sub-menu {
+    max-width: 400px;
+    width: 100%;
+  }
+}
+
 
 @media (max-width: 560px) {
   .item-info-content-wrapper .item-block .btn-part .info-button-block .item-btn2 .sub-menu {
