@@ -1066,6 +1066,7 @@ main {
 
 .item-info-content-wrapper .item-block .btn-part .info-button-block .item-btn2:hover .sub-menu {
   display: block;
+  -moz-display: block;
 }
 
 
